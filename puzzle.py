@@ -1,6 +1,7 @@
 """
-Five people where eaeting apples, A finished before B, but behind C.
-D Finished before E but, behind B. What was the finishing order.
+Solve the puzzle below:
+    Five people where eating apples, A finished before B, but behind C.
+    D Finished before E but, behind B. What was the finishing order.
 """
 
 from simpleai.search import (
