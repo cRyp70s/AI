@@ -1,5 +1,5 @@
 """
-Construct a string using greedy search
+Construct a string using greedy search.
 """
 import argparse
 import simpleai.search as ss
