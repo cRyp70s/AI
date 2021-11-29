@@ -6,11 +6,7 @@ Solve the puzzle below:
 
 from simpleai.search import (
     CspProblem,
-    backtrack,
-    min_conflicts,
-    MOST_CONSTRAINED_VARIABLE,
-    HIGHEST_DEGREE_VARIABLE,
-    LEAST_CONSTRAINING_VALUE,
+    backtrack
 )
 
 
