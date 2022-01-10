@@ -1,6 +1,6 @@
 """
 Solve the puzzle below:
-    Five people where eating apples, A finished before B, but behind C.
+    Five people were eating apples, A finished before B, but behind C.
     D Finished before E but, behind B. What was the finishing order.
 """
 
